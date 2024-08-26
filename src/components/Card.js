@@ -16,7 +16,7 @@ const Card = () => {
         From minimalist sculptures to minimalist paintings, this blog will
         inspire you to appreciate the beauty that lies in simplicity.
       </p>
-      <div className="p-[4px] border-t-[#6C727F]     bg-slate-300">
+      <div className="p-[4px] border-t-[#6C727F]">
         <p className="text-xs font-light">Annie Spratt</p>
       </div>
     </div>
